@@ -1,0 +1,310 @@
+{
+    "prompts": [
+        {
+            "filename": "photo_portrait-woman.jpeg",
+            "positive_prompt": "Woman portrait: Captivating, photorealistic portrait of a woman with a radiant face, a small nose ring, and a bright smile, stylishly fluffy hair, low-key clubmaster glasses, hair ties, high contrast, detailed, bokeh",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
+            "categories": ["style", "charater", "lighting"]
+        },
+        {
+            "filename": "photo_portrait-male.jpeg",
+            "positive_prompt": "Rugged man portrait: Highly detailed, photorealistic portrait of a man with a weathered face, thick eyebrows shape, bright blue eyes, and a messy mop of hair, accessorized with a black leather strap around his head, a silver stud earring, and a rugged beard, rendered in high resolution and sharp focus.",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
+            "categories": ["style", "charater"]
+        },
+        {
+            "filename": "photo_portrait-noir.jpeg",
+            "positive_prompt": "Noir Cinematic: johnny depp photo portrait, film noir style, monochrome, high contrast, dramatic shadows, 1940s style, mysterious, cinematic",
+            "negative_prompt": "nsfw, watermarks, low contrast, vibrant, colorful",
+            "categories": ["style", "lighting", "charater"]
+        },
+        {
+            "filename": "photo_double-exposure.jpeg",
+            "positive_prompt": "Double exposure effect: double exposure portrait of a beautiful woman with brown hair and a snowy tree under the bright moonlight",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
+            "categories": ["style", "composition", "charater"]
+        },
+        {
+            "filename": "photo_interior.jpeg",
+            "positive_prompt": "Interior: a living room, bright modern Scandinavian style house, large windows, magazine photoshoot, 8k, studio lighting",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
+            "categories": ["style", "lighting"]
+        },
+        {
+            "filename": "photo_animal.jpeg",
+            "positive_prompt": "Animal photo: a cat under the snow with blue eyes, covered by snow, cinematic style, medium shot, professional photo, animal",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
+            "categories": ["style", "animal"]
+        },
+        {
+            "filename": "photo_mockup.jpeg",
+            "positive_prompt": "Mockup photography: mockup of an empty, blank white poster in a modern loft, serene and warm visual storytelling, stunning artistic expression",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
+            "categories": ["style", "composition", "creativity", "Concept visualization"]
+        },
+        {
+            "filename": "photo_long-exposure.jpeg",
+            "positive_prompt": "Long exposure: long exposure photo of tokyo street, blurred motion, streaks of light, surreal, dreamy, ghosting effect, highly detailed",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
+            "categories": ["style", "motion", "composition"]
+        },
+        {
+            "filename": "photo_cyberpunk.jpeg",
+            "positive_prompt": "Cyberpunk photoshoot: a glamorous digital magazine photoshoot, a fashionable model wearing avant-garde clothing, set in a futuristic cyberpunk roof-top environment, with a neon-lit city background, intricate high fashion details, backlit by vibrant city glow, Vogue fashion photography",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "categories": ["style", "lighting"]
+        },
+        {
+            "filename": "photo_still-life.jpeg",
+            "positive_prompt": "Drink photography: freshly made hot floral tea in glass kettle on the table, angled shot, midday warm, Nikon D850 105mm, close-up",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
+            "categories": ["style", "composition"]
+        },
+        {
+            "filename": "photo_fashion.jpeg",
+            "positive_prompt": "Fashion design: extravagant high fashion show concept featuring elaborate costumes with feathered details and sparkling jewels, runway, fashion designer inspiration, style of gaultier and gianni versace, deep vibrant colors, strong directional light sources, catwalk, heavy diffusion of light, highly detailed, top trend in vogue, Artstation, front row view, full scene, elegant, glamorous, intricate, sharp focus, haute couture",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
+            "categories": ["lighting", "colors"]
+        },
+        {
+            "filename": "landscape_grand_canyon.jpeg",
+            "positive_prompt": "Appealing photo of the Grand Canyon, Canon RF 16mm f:2.8 STM Lens, hyperrealistic photography, style of Unsplash and National Geographic",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "categories": ["landscape", "style"]
+        },
+        {
+            "filename": "landscape_rainforest.jpeg",
+            "positive_prompt": "Ethereal morning in a lush rainforest wildlife with vibrant flora ecosystem in foreground, natural rock arches and stairs",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "categories": ["landscape", "composition"]
+        },
+        {
+            "filename": "landscape_lava_ocean.jpeg",
+            "positive_prompt": "Photorealistic: hundreds of lava flow crashing into an agitated ocean, showcasing steam, cooling patterns and underwater effects, mountain range in background",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "categories": ["landscape", "creativity"]
+        },
+        {
+            "filename": "architecture_eco_city.jpeg",
+            "positive_prompt": "Futuristic eco-city with vertical gardens, solar-powered skyscrapers, and hovering transportation pods",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "categories": ["creativity"]
+        },
+        {
+            "filename": "illustration-anime.jpeg",
+            "positive_prompt": "Anime astronaut: a girl astronaut exploring the cosmos, floating among planets and stars, high quality detail , anime screencap, studio ghibli style, illustration, high contrast, masterpiece, best quality",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style"]
+        },
+        {
+            "filename": "vector_clipart.jpeg",
+            "positive_prompt": "Clipart: clipart style, cute, playful scene, playful dog chasing a frisbee, with a bright, happy color palette, simple shapes, and thick, bold lines, hand-drawn digital illustration, highly detailed, perfect for children's book, colorful, whimsical, Artstation HQ, digital art",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style"]
+        },
+        {
+            "filename": "infography.jpeg",
+            "positive_prompt": "Infography: a refreshing shaving cream, visually engaging and informative visualization, professional-grade execution, effectively communicates complex information or data, enhances understanding",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style", "concept visualization"]
+        },
+        {
+            "filename": "vector_company-logo.jpeg",
+            "positive_prompt": "Company Logo: Company \"Fresh Foods\", a sleek modern design with a minimalist, bold font. The text \"Fresh Foods\" is seamlessly integrated into a conceptual vector illustration. The logo is set against a plain background, emphasizing quality, freshness, and reliability",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["text", "style", "concept visualization"]
+        },
+        {
+            "filename": "vector_fonts.jpeg",
+            "positive_prompt": "Font: text \"Technology\" on a plain unicolored background, Bold and cursive letters, modern, high-quality typography, futuristic and technological feel, isolated, flat design",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style", "text", "concept visualization"]
+        },
+        {
+            "filename": "vector_comicbook.jpeg",
+            "positive_prompt": "Comicbook: a girl sitting in the cafe, comic, graphic illustration, comic art, graphic novel art, vibrant, highly detailed, colored, 2d minimalistic",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style"]
+        },
+        {
+            "filename": "vector_lineart.jpeg",
+            "positive_prompt": "Post apocalypse: line art, abandoned city with ruined buildings, long deserted streets, cars aged by time, trees, flowers, scattered leaves, empty street, line art drawing, professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style", "prompt adherence"]
+        },
+        {
+            "filename": "3D_pixel.jpeg",
+            "positive_prompt": "Pixel: haunted house, pixel-art, low-res, blocky, pixel art style, 8-bit graphics, colorful",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style"]
+        },
+        {
+            "filename": "3D_pixar.jpeg",
+            "positive_prompt": "Pixar: batman, cute modern disney style, Pixar 3d portrait, ultra detailed, gorgeous, 3d zbrush, trending on dribbble, 8k render",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style"]
+        },
+        {
+            "filename": "3D_vaporwave.jpeg",
+            "positive_prompt": "Vaporwave: girl with pink hair, vaporwave style, retro aesthetic, cyberpunk, vibrant, neon colors, vintage 80s and 90s style, highly detailed",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style", "colors"]
+        },
+        {
+            "filename": "3D_lowpoly.jpeg",
+            "positive_prompt": "Lowpoly: a lion, colorful, low-poly, cyan and orange eyes, poly-hd, 3d, low-poly game art, polygon mesh, jagged, blocky, wireframe edges, centered composition",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style", "colors", "composition"]
+        },
+        {
+            "filename": "3D_unrealengine.jpeg",
+            "positive_prompt": "Frozen rose: a frozen cosmic rose, the petals glitter with a crystalline shimmer, swirling nebulas, 8k unreal engine photorealism, ethereal lighting, red, nighttime, darkness, surreal art",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style", "lighting", "creativity"]
+        },
+        {
+            "filename": "3D_digital-art.jpeg",
+            "positive_prompt": "Plush toy: adorable concept illustration of a plush animal peacefully sitting on a child's bed, soft lighting, gentle texture, dreamy atmosphere, pastel tones, matte finish, wide shot, children illustration, highly detailed, trending on artstation, fluffy, smooth, digital art, sharp focus",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style", "lighting", "colors"]
+        },
+        {
+            "filename": "3D_digital-painting.jpeg",
+            "positive_prompt": "Griffon: a highly detailed, full body depiction of a griffin, showcasing a mix of lion's body, eagle's head and wings in a dramatic forest setting under a warm evening sky, smooth, vibrant, digital painting, matte, sharp focus, by artgerm, with a hint of magical realism, exquisite detailing, including feathers, fur, and talons, where the griffin is poised to leap into flight, trending on Artstation, saving the image in 4K UHD quality",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style", "prompt adherence"]
+        },
+        {
+            "filename": "3D_fantasy.jpeg",
+            "positive_prompt": "Fantasy elf: ethereal fantasy concept art of an elf, magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style", "creativity"]
+        },
+        {
+            "filename": "3D_surreal.jpeg",
+            "positive_prompt": "Surreal: a colorful surrealistic bicycle-unicorn designed for the Solar Panel Glass Festival at sunset. This bicycle should embody the aesthetic and concept of a solar panel unicorn, subtle glow emanating from its frame. vibrant forest, flowers and leaves, creating a sense of depth and mystery",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style", "creativity", "colors", "concept visualization"]
+        },
+        {
+            "filename": "drawing_watercolor.jpeg",
+            "positive_prompt": "Watercolor: cinnamon bun on the plate, watercolor painting, detailed, brush strokes, light palette, light, cozy",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style", "colors"]
+        },
+        {
+            "filename": "drawing_pastel.jpeg",
+            "positive_prompt": "Pastel Drawing: A serene forest glade, featuring a delicate fairy perched on a mushroom, intricate foliage, capturing the essence of a peaceful, pastel drawing art style, pastel colors, delicate shading, dynamic composition, soft and velvety pastel textures, amazing pastel drawing",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style", "colors", "composition"]
+        },
+        {
+            "filename": "drawing_charcoal.jpeg",
+            "positive_prompt": "Charcoal Drawing: A futuristic cityscape at twilight, with towering skyscrapers and flying cars, sun, clouds, charcoal drawing, Sfumato, Scumbling, Chiaroscuro, scribbling, hatching, cross-hatching, strokes",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style", "perspective"]
+        },
+        {
+            "filename": "drawing_colored_pencil.jpeg",
+            "positive_prompt": "Colored pencil Drawing: a colored luxurious car in a forest, colored pencil drawing, pencil strokes, Sfumato, Scumbling, Chiaroscuro, scribbling, hatching, cross-hatching, strokes, vibrant colors, pastel shades, soft gradations, layered colors",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style"]
+        },
+        {
+            "filename": "drawing_ink.jpeg",
+            "positive_prompt": "Ink Drawing: a ninja samourai in a dojo, Ink drawing, bold lines, expressive strokes, high contrast, intricate details, dynamic compositions, classic aesthetic, adds depth and texture",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style"]
+        },
+        {
+            "filename": "painting-abstract.jpeg",
+            "positive_prompt": "Abstract Painting: pianist playing somber music, abstract style, non-representational, colors and shapes, expression of feelings, imaginative, highly detailed",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style", "creativity"]
+        },
+        {
+            "filename": "painting-pointillism.jpeg",
+            "positive_prompt": "Pointilism painting: uplifting wellness-inspired illustration showing a serene yoga session at sunrise on a misty mountain peak, pointillism, painting, intricate dots, small dots, varied sizes, varied colors, high contrast, expressive brushstrokes",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style", "colors"]
+        },
+        {
+            "filename": "various-psychedelic.jpeg",
+            "positive_prompt": "Psychedelic: autumn forest landscape, psychedelic style, vibrant colors, swirling patterns, abstract forms, surreal, trippy, colorful",
+            "negative_prompt": "nsfw, watermark, realism, cinematic",
+            "categories": ["style", "colors", "creativity"]
+        },
+        {
+            "filename": "complexe_prompt.jpeg",
+            "positive_prompt": "Beneath a canopy of autumn leaves, squirrels scurry to arrange acorns into the word \"FALL\" with each nut placed strategically to form a letter in the seasonal tableau.",
+            "negative_prompt": "nsfw, watermark",
+            "categories": ["prompt adherence", "text", "composition"]
+        },
+        {
+            "filename": "prompt_understanding_bottles.jpeg",
+            "positive_prompt": "Four bottles lined up on a table. From left to right, they are numbered \"4\" then \"3\" then \"1\" then \"2\". From left to right, they are red, blue, green, and orange. The background is a kitchen",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "categories": ["prompt adherence"]
+        },
+        {
+            "filename": "prompt_understanding_dragon.jpeg",
+            "positive_prompt": "Dragon sitting at a desk wearing a suit in a medieval library. On the parchment is a hand-drawn map of the earth's continent.",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "categories": ["prompt adherence"]
+        },
+        {
+            "filename": "technology_hologram.jpeg",
+            "positive_prompt": "A giant, hyper-realistic 3D holographic rectangle aquarium-tower full of tiny exotic fish in a busy city intersection at night, bird's Eye View.",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "categories": ["creativity", "style", "lighting"]
+        },
+        {
+            "filename": "motion_cheetah.jpeg",
+            "positive_prompt": "Freeze-frame of a cheetah at full sprint, capturing muscle tension and dirt particles mid-air",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "categories": ["motion capture", "animal"]
+        },
+        {
+            "filename": "colors_lighting_storm.jpeg",
+            "positive_prompt": "A storm cloud over a lighthouse caught in a storm using monochromatic green tones",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "categories": ["colors", "lighting", "landscape"]
+        },
+        {
+            "filename": "colors_lighting_joker.jpeg",
+            "positive_prompt": "The Joker using only shades of blue and orange, cinematic chiaroscuro light",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "categories": ["colors", "lighting", ""]
+        },
+        {
+            "filename": "multi_subject_phones.jpeg",
+            "positive_prompt": "In the foreground, a modern teal smartphone. In the background, an old red rotary telephone. The smartphone has a sleek design with a large touchscreen. The rotary telephone is black with a coiled cord.",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "categories": ["multi-subject",  "composition"]
+        },
+        {
+            "filename": "multi_subject_fantasy.jpeg",
+            "positive_prompt": "A human wizard in a teal robe stands beside a green goblin in red armor at the enchanted courtyard of a school.",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "categories": ["multi-subject", "fantasy elements", "colors"]
+        },
+        {
+            "filename": "creativity_balance.jpeg",
+            "positive_prompt": "Represent the balance between chaos and order in nature",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "categories": ["creativity", "concept visualization", "abstract concepts"]
+        },
+        {
+            "filename": "creativity_telecommunications.jpeg",
+            "positive_prompt": "The concept of telecommunications depicted into a living entity",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "categories": ["creativity", "concept visualization", "abstract concepts"]
+        },
+        {
+            "filename": "creativity_unconscious.jpeg",
+            "positive_prompt": "Vivid conceptual depiction of an unconscious conscience",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "categories": ["creativity", "concept visualization", "abstract concepts"]
+        }
+    ]
+}
