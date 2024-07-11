@@ -1,28 +1,28 @@
 {
     "prompts": [
         {
-            "filename": "photo_portrait-woman.jpeg",
+            "filename": "1_photo_portrait-woman.jpeg",
             "positive_prompt": "Woman portrait: Captivating, photorealistic portrait of a woman with a radiant face, a small nose ring, and a bright smile, stylishly fluffy hair, low-key clubmaster glasses, hair ties, high contrast, detailed, bokeh",
             "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
-            "categories": ["style", "charater", "lighting"]
+            "categories": ["style", "character", "lighting"]
         },
         {
-            "filename": "photo_portrait-male.jpeg",
+            "filename": "2_photo_portrait-male.jpeg",
             "positive_prompt": "Rugged man portrait: Highly detailed, photorealistic portrait of a man with a weathered face, thick eyebrows shape, bright blue eyes, and a messy mop of hair, accessorized with a black leather strap around his head, a silver stud earring, and a rugged beard, rendered in high resolution and sharp focus.",
             "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
-            "categories": ["style", "charater"]
+            "categories": ["style", "character"]
         },
         {
-            "filename": "photo_portrait-noir.jpeg",
+            "filename": "3_photo_portrait-noir.jpeg",
             "positive_prompt": "Noir Cinematic: johnny depp photo portrait, film noir style, monochrome, high contrast, dramatic shadows, 1940s style, mysterious, cinematic",
             "negative_prompt": "nsfw, watermarks, low contrast, vibrant, colorful",
-            "categories": ["style", "lighting", "charater"]
+            "categories": ["style", "lighting", "character"]
         },
         {
             "filename": "photo_double-exposure.jpeg",
             "positive_prompt": "Double exposure effect: double exposure portrait of a beautiful woman with brown hair and a snowy tree under the bright moonlight",
             "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
-            "categories": ["style", "composition", "charater"]
+            "categories": ["style", "composition", "character"]
         },
         {
             "filename": "photo_interior.jpeg",
@@ -40,7 +40,7 @@
             "filename": "photo_mockup.jpeg",
             "positive_prompt": "Mockup photography: mockup of an empty, blank white poster in a modern loft, serene and warm visual storytelling, stunning artistic expression",
             "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
-            "categories": ["style", "composition", "creativity", "Concept visualization"]
+            "categories": ["style", "composition", "creativity", "concept visualization"]
         },
         {
             "filename": "photo_long-exposure.jpeg",
@@ -50,7 +50,7 @@
         },
         {
             "filename": "photo_cyberpunk.jpeg",
-            "positive_prompt": "Cyberpunk photoshoot: a glamorous digital magazine photoshoot, a fashionable model wearing avant-garde clothing, set in a futuristic cyberpunk roof-top environment, with a neon-lit city background, intricate high fashion details, backlit by vibrant city glow, Vogue fashion photography",
+            "positive_prompt": "Cyberpunk: a young woman holding a delicious meat dish wearing an extravagant sombrero outfit in a sleek crowded cyberpunk restaurant full of customers, bar, beers, liquor, Pepsi, tattoos, holographic, neon lights, intricate patterns and cyberpunk elements, dramatic lightning",
             "negative_prompt": "nsfw, watermarks, noisy, low quality",
             "categories": ["style", "lighting"]
         },
@@ -63,6 +63,12 @@
         {
             "filename": "photo_fashion.jpeg",
             "positive_prompt": "Fashion design: extravagant high fashion show concept featuring elaborate costumes with feathered details and sparkling jewels, runway, fashion designer inspiration, style of gaultier and gianni versace, deep vibrant colors, strong directional light sources, catwalk, heavy diffusion of light, highly detailed, top trend in vogue, Artstation, front row view, full scene, elegant, glamorous, intricate, sharp focus, haute couture",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
+            "categories": ["lighting", "colors"]
+        },
+        {
+            "filename": "photo_vintage.jpeg",
+            "positive_prompt": "Polaroid Photography: young woman in blue and black, lost in thought, surrounded by nostalgia mood, gazing at a detailed jewelry box, necklace, ruby pendant, sapphire, ring, diamond earrings, living room, taken on polaroid, in 60s style, muted colors, nostalgia, vintage, 60s aesthetic",
             "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
             "categories": ["lighting", "colors"]
         },
@@ -140,19 +146,13 @@
         },
         {
             "filename": "3D_pixar.jpeg",
-            "positive_prompt": "Pixar: batman, cute modern disney style, Pixar 3d portrait, ultra detailed, gorgeous, 3d zbrush, trending on dribbble, 8k render",
+            "positive_prompt": "Pixar 3D: a super cute ultra sweet joker as a baby leads the pack in a miniature joker-themed racing bicycle, pedaling furiously through the streets of Gotham City, surrounded by cheering crowds, vibrant cityscape, towering skyscrapers, and bustling street vendors, bright blue sky, Pixar 3d portrait, ultra detailed, gorgeous, 3d zbrush, trending on dribbble, 8k render",
             "negative_prompt": "nsfw, watermark, realism, cinematic",
             "categories": ["style"]
         },
         {
-            "filename": "3D_vaporwave.jpeg",
-            "positive_prompt": "Vaporwave: girl with pink hair, vaporwave style, retro aesthetic, cyberpunk, vibrant, neon colors, vintage 80s and 90s style, highly detailed",
-            "negative_prompt": "nsfw, watermark, realism, cinematic",
-            "categories": ["style", "colors"]
-        },
-        {
             "filename": "3D_lowpoly.jpeg",
-            "positive_prompt": "Lowpoly: a lion, colorful, low-poly, cyan and orange eyes, poly-hd, 3d, low-poly game art, polygon mesh, jagged, blocky, wireframe edges, centered composition",
+            "positive_prompt": "Lowpoly: a lion walking by a rustik house, wheat field, serene river, sunrise, low-poly, poly-hd, 3d, low-poly game art, polygon mesh, jagged, blocky, wireframe edges, centered composition",
             "negative_prompt": "nsfw, watermark, realism, cinematic",
             "categories": ["style", "colors", "composition"]
         },
@@ -274,7 +274,7 @@
             "filename": "colors_lighting_joker.jpeg",
             "positive_prompt": "The Joker using only shades of blue and orange, cinematic chiaroscuro light",
             "negative_prompt": "nsfw, watermarks, noisy, low quality",
-            "categories": ["colors", "lighting", ""]
+            "categories": ["colors", "lighting"]
         },
         {
             "filename": "multi_subject_phones.jpeg",
@@ -286,24 +286,24 @@
             "filename": "multi_subject_fantasy.jpeg",
             "positive_prompt": "A human wizard in a teal robe stands beside a green goblin in red armor at the enchanted courtyard of a school.",
             "negative_prompt": "nsfw, watermarks, noisy, low quality",
-            "categories": ["multi-subject", "fantasy elements", "colors"]
+            "categories": ["multi-subject", "colors"]
         },
         {
             "filename": "creativity_balance.jpeg",
             "positive_prompt": "Represent the balance between chaos and order in nature",
-            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "negative_prompt": "nsfw, watermarks",
             "categories": ["creativity", "concept visualization", "abstract concepts"]
         },
         {
-            "filename": "creativity_telecommunications.jpeg",
-            "positive_prompt": "The concept of telecommunications depicted into a living entity",
-            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "filename": "creativity_gastronomy.jpeg",
+            "positive_prompt": "The concept of biology depicted into a conceptual serene portrait",
+            "negative_prompt": "nsfw, watermarks",
             "categories": ["creativity", "concept visualization", "abstract concepts"]
         },
         {
             "filename": "creativity_unconscious.jpeg",
             "positive_prompt": "Vivid conceptual depiction of an unconscious conscience",
-            "negative_prompt": "nsfw, watermarks, noisy, low quality",
+            "negative_prompt": "nsfw, watermarks",
             "categories": ["creativity", "concept visualization", "abstract concepts"]
         }
     ]
