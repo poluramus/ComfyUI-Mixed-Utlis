@@ -1,19 +1,19 @@
 {
     "prompts": [
         {
-            "filename": "1_photo_portrait-woman.jpeg",
+            "filename": "photo_portrait-woman.jpeg",
             "positive_prompt": "Woman portrait: Captivating, photorealistic portrait of a woman with a radiant face, a small nose ring, and a bright smile, stylishly fluffy hair, low-key clubmaster glasses, hair ties, high contrast, detailed, bokeh",
             "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
             "categories": ["style", "character", "lighting"]
         },
         {
-            "filename": "2_photo_portrait-male.jpeg",
+            "filename": "photo_portrait-male.jpeg",
             "positive_prompt": "Rugged man portrait: Highly detailed, photorealistic portrait of a man with a weathered face, thick eyebrows shape, bright blue eyes, and a messy mop of hair, accessorized with a black leather strap around his head, a silver stud earring, and a rugged beard, rendered in high resolution and sharp focus.",
             "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
             "categories": ["style", "character"]
         },
         {
-            "filename": "3_photo_portrait-noir.jpeg",
+            "filename": "photo_portrait-noir.jpeg",
             "positive_prompt": "Noir Cinematic: johnny depp photo portrait, film noir style, monochrome, high contrast, dramatic shadows, 1940s style, mysterious, cinematic",
             "negative_prompt": "nsfw, watermarks, low contrast, vibrant, colorful",
             "categories": ["style", "lighting", "character"]
