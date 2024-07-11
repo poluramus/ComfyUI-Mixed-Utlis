@@ -55,10 +55,10 @@
             "categories": ["style", "lighting"]
         },
         {
-            "filename": "photo_still-life.jpeg",
-            "positive_prompt": "Drink photography: freshly made hot floral tea in glass kettle on the table, angled shot, midday warm, Nikon D850 105mm, close-up",
+            "filename": "photo_pinterest.jpeg",
+            "positive_prompt": "Pinterest Photo: AI-powered meal prep, Minimalist Japanese design, Zen-inspired base, Levitating cook pot, Invisible force fields, Particle steam, Calligraphy UI, OLED screen, Bokeh effect, Aspirational home decor, Customizable Pinterest layout, Various fonts, Color options, Personalized design elements",
             "negative_prompt": "nsfw, watermarks, noisy, low quality, art, illustration",
-            "categories": ["style", "composition"]
+            "categories": ["composition", "prompt adherence", "concept visualization"]
         },
         {
             "filename": "photo_fashion.jpeg",
@@ -280,7 +280,7 @@
             "filename": "multi_subject_phones.jpeg",
             "positive_prompt": "In the foreground, a modern teal smartphone. In the background, an old red rotary telephone. The smartphone has a sleek design with a large touchscreen. The rotary telephone is black with a coiled cord.",
             "negative_prompt": "nsfw, watermarks, noisy, low quality",
-            "categories": ["multi-subject",  "composition"]
+            "categories": ["multi-subject", "composition"]
         },
         {
             "filename": "multi_subject_fantasy.jpeg",
@@ -291,19 +291,19 @@
         {
             "filename": "creativity_balance.jpeg",
             "positive_prompt": "Represent the balance between chaos and order in nature",
-            "negative_prompt": "nsfw, watermarks",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
             "categories": ["creativity", "concept visualization", "abstract concepts"]
         },
         {
-            "filename": "creativity_gastronomy.jpeg",
+            "filename": "creativity_telecommunications.jpeg",
             "positive_prompt": "The concept of biology depicted into a conceptual serene portrait",
-            "negative_prompt": "nsfw, watermarks",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
             "categories": ["creativity", "concept visualization", "abstract concepts"]
         },
         {
             "filename": "creativity_unconscious.jpeg",
             "positive_prompt": "Vivid conceptual depiction of an unconscious conscience",
-            "negative_prompt": "nsfw, watermarks",
+            "negative_prompt": "nsfw, watermarks, noisy, low quality",
             "categories": ["creativity", "concept visualization", "abstract concepts"]
         }
     ]
