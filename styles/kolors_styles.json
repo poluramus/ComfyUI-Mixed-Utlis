@@ -1,0 +1,1322 @@
+[
+    {
+        "name": "k_Movie_Star_Style",
+        "prompt": "Ultra HD, 8K, super detailed, {prompt} cinematic photos, beautiful lighting, great composition",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, and not suitable for the workplace",
+        "image_filename": "k_Movie_Star_Style.jpg"
+    },
+    {
+        "name": "k_Abstract_Expressionism",
+        "prompt": "abstract expressionist art, {prompt}, high contrast, minimalist, colorful, vivid, dramatic, expressionism",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realism, photorealism",
+        "image_filename": "k_Abstract_Expressionism.jpg"
+    },
+    {
+        "name": "k_College_Style",
+        "prompt": "academia, {prompt}, ivy league style, plain, dramatic, chic boarding school, academia",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, sloppy, unkempt, unkempt",
+        "image_filename": "k_College_Style.jpg"
+    },
+    {
+        "name": "k_Action_Figures",
+        "prompt": "Action figures, {prompt}, plastic collectible action figures, collectible toy action figures",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Action_Figures.jpg"
+    },
+    {
+        "name": "k_Cute_D_Characters",
+        "prompt": "cute 3d characters, {prompt}, 3d rendering, cute characters, 3d art",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, sloppy, messy, photorealistic",
+        "image_filename": "k_Cute_D_Characters.jpg"
+    },
+    {
+        "name": "k_Cute_Kawaii_Style",
+        "prompt": "cute kawaii, {prompt}, pretty, cute, adorable, kawaii",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, gothic, dark, moody, monochrome",
+        "image_filename": "k_Cute_Kawaii_Style.jpg"
+    },
+    {
+        "name": "k_Art_Deco",
+        "prompt": "art deco, {prompt}, smooth geometric shapes, art deco style",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Art_Deco.jpg"
+    },
+    {
+        "name": "k_Art_Nouveau",
+        "prompt": "art nouveau, beautiful art, {prompt}, smooth, organic forms, long, winding, art nouveau",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, industrial, mechanical",
+        "image_filename": "k_Art_Nouveau.jpg"
+    },
+    {
+        "name": "k_Astral_Halo",
+        "prompt": "Astral aura, {prompt}, astral, colorful aura, vibrant energy",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Astral_Halo.jpg"
+    },
+    {
+        "name": "k_Avant_Garde",
+        "prompt": "avant-garde, {prompt}, unusual, experimental, avant-garde art",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Avant_Garde.jpg"
+    },
+    {
+        "name": "k_Baroque",
+        "prompt": "Baroque style, {prompt}, dramatic, exuberant, grand, Baroque art",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Baroque.jpg"
+    },
+    {
+        "name": "k_Bauhaus_Style_Poster",
+        "prompt": "Bauhaus style poster, {prompt}, simple geometric shapes, clean lines, primary colors, Bauhaus style poster",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Bauhaus_Style_Poster.jpg"
+    },
+    {
+        "name": "k_Blueprint_Schematic_Drawing",
+        "prompt": "blueprint schematic, {prompt}, technical drawing, blueprint, schematic",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Blueprint_Schematic_Drawing.jpg"
+    },
+    {
+        "name": "k_Comics",
+        "prompt": "cartoon, {prompt}, exaggerated, funny, caricature",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realistic",
+        "image_filename": "k_Comics.jpg"
+    },
+    {
+        "name": "k_Monochrome_Shading_Art",
+        "prompt": "cel art, {prompt}, 2D, flat color, cel shading, cel shading style",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Monochrome_Shading_Art.jpg"
+    },
+    {
+        "name": "k_Character_Design",
+        "prompt": "Character design sheet, {prompt}, character reference sheet, character turn",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Character_Design.jpg"
+    },
+    {
+        "name": "k_Classical_Art",
+        "prompt": "Classical art, {prompt}, inspired by Roman and Greek culture, clarity, harmony, classical art",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Classical_Art.jpg"
+    },
+    {
+        "name": "k_Color_Field_Painting",
+        "prompt": "color field painting, {prompt}, abstract, simple, geometric, color field painting style",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Color_Field_Painting.jpg"
+    },
+    {
+        "name": "k_Colored_Pencil_Art",
+        "prompt": "colored pencil art, {prompt}, colored pencil strokes, light colors, visible paper texture, colored pencil art",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Colored_Pencil_Art.jpg"
+    },
+    {
+        "name": "k_Concept_Art",
+        "prompt": "concept art, {prompt}, concept art",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Concept_Art.jpg"
+    },
+    {
+        "name": "k_Structuralism",
+        "prompt": "constructivist art, {prompt}, minimalism, geometric shapes, constructivist art",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Structuralism.jpg"
+    },
+    {
+        "name": "k_Cubism",
+        "prompt": "Cubism art, {prompt}, flat geometric shapes, Cubism art",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Cubism.jpg"
+    },
+    {
+        "name": "k_Dadaism",
+        "prompt": "dada art, {prompt}, irony, absurdity, dada art",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Dadaism.jpg"
+    },
+    {
+        "name": "k_Dark_Fantasy",
+        "prompt": "dark fantasy art, {prompt}, dark, moody, dark fantasy style",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, bright, sunny",
+        "image_filename": "k_Dark_Fantasy.jpg"
+    },
+    {
+        "name": "k_Dark_Melancholy_Atmosphere",
+        "prompt": "dark gloomy atmosphere, {prompt}, dramatic, mysterious, dark gloomy atmosphere",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, vibrant, colorful, bright",
+        "image_filename": "k_Dark_Melancholy_Atmosphere.jpg"
+    },
+    {
+        "name": "k_Dmt_Art_Style",
+        "prompt": "DMT art style, {prompt}, bright colors, surreal visuals, swirling patterns, DMT art style",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Dmt_Art_Style.jpg"
+    },
+    {
+        "name": "k_Graffiti_Art",
+        "prompt": "doodle art style, {prompt}, drawing, free form, rotating pattern, doodle art style",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Graffiti_Art.jpg"
+    },
+    {
+        "name": "k_Double_Exposure",
+        "prompt": "double exposure style, {prompt}, double image ghosting effect, image combination, double exposure style",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Double_Exposure.jpg"
+    },
+    {
+        "name": "k_Paint_Splash_Art",
+        "prompt": "dripping paint splatter art, {prompt}, dramatic, paint dripping, splatter, dripping paint",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Paint_Splash_Art.jpg"
+    },
+    {
+        "name": "k_Expressionism",
+        "prompt": "expressionist art style, {prompt}, movement, contrast, emotion, exaggerated form, expressionist art style",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Expressionism.jpg"
+    },
+    {
+        "name": "k_Faded_Polaroid_Photo",
+        "prompt": "faded polaroid photo, {prompt}, analog, old faded photo, old polaroid",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, vibrant, colorful",
+        "image_filename": "k_Faded_Polaroid_Photo.jpg"
+    },
+    {
+        "name": "k_Fauvism",
+        "prompt": "Fauvist art, {prompt}, painterly, bold colors, textured brushstrokes, Fauvist art",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Fauvism.jpg"
+    },
+    {
+        "name": "k_Flat_D_Art",
+        "prompt": "flat 2d art, {prompt}, simple flat colors, two dimensional, flat 2d art style",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, 3D, photo, realistic",
+        "image_filename": "k_Flat_D_Art.jpg"
+    },
+    {
+        "name": "k_Fortnite_Art_Style",
+        "prompt": "Fortnite art style, {prompt}, 3D cartoon, colorful, Fortnite art style",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, photorealistic",
+        "image_filename": "k_Fortnite_Art_Style.jpg"
+    },
+    {
+        "name": "k_Futurism",
+        "prompt": "futuristic art style, {prompt}, dynamic, dramatic, futuristic art style",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Futurism.jpg"
+    },
+    {
+        "name": "k_Faulty_Core",
+        "prompt": "glitchcore art style, {prompt}, dynamic, dramatic, distorted, bright colors, glitchcore art style",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Faulty_Core.jpg"
+    },
+    {
+        "name": "k_Halo_Music_Style",
+        "prompt": "Glo-fi art style, {prompt}, dynamic, dramatic, bright colors, Glo-fi art style",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Halo_Music_Style.jpg"
+    },
+    {
+        "name": "k_Gucci_Art_Style",
+        "prompt": "Googie art style, {prompt}, dynamic, dramatic, 1950s futurism, bold boomerang angles, Googie art style",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Gucci_Art_Style.jpg"
+    },
+    {
+        "name": "k_Graffiti_Art",
+        "prompt": "graffiti art style, {prompt}, dynamic, dramatic, bright colors, graffiti art style",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Graffiti_Art.jpg"
+    },
+    {
+        "name": "k_Harlem_Renaissance_Art",
+        "prompt": "Harlem Renaissance art style, {prompt}, dynamic, dramatic, 1920s African American culture, Harlem Renaissance art style",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Harlem_Renaissance_Art.jpg"
+    },
+    {
+        "name": "k_High_Class_Boutique",
+        "prompt": "haute couture, {prompt}, dynamic, dramatic, haute couture, elegant, gorgeous clothing, haute couture",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_High_Class_Boutique.jpg"
+    },
+    {
+        "name": "k_Idyllic",
+        "prompt": "idyllic, {prompt}, peaceful, happy, pleasant, joyful, harmonious, picturesque, charming",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Idyllic.jpg"
+    },
+    {
+        "name": "k_Impressionism",
+        "prompt": "impressionism, {prompt}, painterliness, small brushstrokes, visible brushstrokes, impressionist style",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Impressionism.jpg"
+    },
+    {
+        "name": "k_Infographic_Drawing",
+        "prompt": "Infographic drawing, {prompt}, chart, infographic",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Infographic_Drawing.jpg"
+    },
+    {
+        "name": "k_Ink_Drop_Painting",
+        "prompt": "ink drip painting, {prompt}, ink painting, dripping ink",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, colorful, vibrant",
+        "image_filename": "k_Ink_Drop_Painting.jpg"
+    },
+    {
+        "name": "k_Japanese_Ink_Painting",
+        "prompt": "Japanese ink painting, {prompt}, ink painting, ink painting, Japanese ink painting",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, colorful, vibrant",
+        "image_filename": "k_Japanese_Ink_Painting.jpg"
+    },
+    {
+        "name": "k_Order_Shooting",
+        "prompt": "Knolling Photography, {prompt}, graphic photography, object arrangement, knolling photography",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Order_Shooting.jpg"
+    },
+    {
+        "name": "k_Light_And_Cheerful_Atmosphere",
+        "prompt": "lighthearted atmosphere, {prompt}, happy, joyful, cheerful, carefree, joyful, relaxed, pleasant atmosphere",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, monochrome, dark, moody",
+        "image_filename": "k_Light_And_Cheerful_Atmosphere.jpg"
+    },
+    {
+        "name": "k_Logo_Design",
+        "prompt": "logo design, {prompt}, motion graphics art, vector art, minimalist, professional logo design",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Logo_Design.jpg"
+    },
+    {
+        "name": "k_Luxurious_And_Elegant",
+        "prompt": "luxurious elegance, {prompt}, extravagant, gorgeous, designer, magnificent, picturesque, lavish",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Luxurious_And_Elegant.jpg"
+    },
+    {
+        "name": "k_Macro_Photography",
+        "prompt": "macro photography, {prompt}, close-up, macro 100mm, macro photography",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Macro_Photography.jpg"
+    },
+    {
+        "name": "k_Mandala_Art",
+        "prompt": "Mandala art style, {prompt}, intricate, circular design, mandala",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Mandala_Art.jpg"
+    },
+    {
+        "name": "k_Marker_Pen_Drawing",
+        "prompt": "marker drawing, {prompt}, thick marker lines, visible paper texture, marker drawing",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, photorealistic",
+        "image_filename": "k_Marker_Pen_Drawing.jpg"
+    },
+    {
+        "name": "k_Medievalism",
+        "prompt": "medievalism, {prompt}, inspired by the Middle Ages, medieval art, elaborate patterns and decorations, medievalism",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Medievalism.jpg"
+    },
+    {
+        "name": "k_Minimalism",
+        "prompt": "minimalism, {prompt}, abstract, simple geometric shapes, hard edges, smooth outlines, minimalism",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Minimalism.jpg"
+    },
+    {
+        "name": "k_New_Baroque",
+        "prompt": "Neo-Baroque, {prompt}, ornate and exquisite, vibrant, Neo-Baroque",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_New_Baroque.jpg"
+    },
+    {
+        "name": "k_Neo_Byzantine",
+        "prompt": "Neo-Byzantine, {prompt}, magnificent decorative religious style, inspired by Eastern Orthodox Christianity, Neo-Byzantine",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Neo_Byzantine.jpg"
+    },
+    {
+        "name": "k_Neo_Futurism",
+        "prompt": "neo-futurism, {prompt}, high-tech, curves, spirals, smooth lines, idealistic future, neo-futurism",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Neo_Futurism.jpg"
+    },
+    {
+        "name": "k_Neo_Impressionism",
+        "prompt": "Neo-Impressionism, {prompt}, tiny colors, pointillism, painting, Neo-Impressionism",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, photorealistic",
+        "image_filename": "k_Neo_Impressionism.jpg"
+    },
+    {
+        "name": "k_Neo_Rococo",
+        "prompt": "Neo-Rococo, {prompt}, curvilinear forms, naturalistic decoration, refined, decorative, ornate, Neo-Rococo",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Neo_Rococo.jpg"
+    },
+    {
+        "name": "k_Neoclassicism",
+        "prompt": "Neoclassicism, {prompt}, inspired by ancient Rome and Greece, idealization, plain colors, neoclassicism",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Neoclassicism.jpg"
+    },
+    {
+        "name": "k_Visual_Art",
+        "prompt": "Op Art, {prompt}, optical illusion, abstract, geometric pattern, impression of movement, Op Art",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Visual_Art.jpg"
+    },
+    {
+        "name": "k_Gorgeous_And_Complex",
+        "prompt": "ornate and intricate, {prompt}, decorative, highly detailed, exquisite, ornate, complex",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Gorgeous_And_Complex.jpg"
+    },
+    {
+        "name": "k_Pencil_Sketch",
+        "prompt": "pencil sketch, {prompt}, black and white sketch, graphite sketch",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Pencil_Sketch.jpg"
+    },
+    {
+        "name": "k_Pop_Art",
+        "prompt": "pop art, {prompt}, bright colors, flat colors, 2D, strong lines, pop art",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, photorealistic",
+        "image_filename": "k_Pop_Art.jpg"
+    },
+    {
+        "name": "k_Rococo",
+        "prompt": "Rococo, {prompt}, ornate, soft colors, curved lines, exquisite details, Rococo",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Rococo.jpg"
+    },
+    {
+        "name": "k_Silhouette_Art",
+        "prompt": "silhouette art, {prompt}, high contrast, well defined, silhouette art",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Silhouette_Art.jpg"
+    },
+    {
+        "name": "k_Simple_Vector_Art",
+        "prompt": "simple vector art, {prompt}, 2D flat, simple shapes, minimalism, professional graphics, flat colors, high contrast, simple vector art",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, 3D, photo, realistic",
+        "image_filename": "k_Simple_Vector_Art.jpg"
+    },
+    {
+        "name": "k_Sketch_Master",
+        "prompt": "Sketchup, {prompt}, CAD, professional design, Sketchup",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, photo, photography",
+        "image_filename": "k_Sketch_Master.jpg"
+    },
+    {
+        "name": "k_Steampunk",
+        "prompt": "steampunk, {prompt}, retro futuristic science fiction, steam powered technology, retro industrial, gears, neo-Victorian, steampunk",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Steampunk.jpg"
+    },
+    {
+        "name": "k_Surrealism",
+        "prompt": "surrealism, {prompt}, expressive, dramatic, organic lines and forms, dreamy and mysterious, surrealism",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realistic",
+        "image_filename": "k_Surrealism.jpg"
+    },
+    {
+        "name": "k_Suprematism",
+        "prompt": "Suprematism, {prompt}, abstraction, limited palette, geometric shapes, Suprematism",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realistic",
+        "image_filename": "k_Suprematism.jpg"
+    },
+    {
+        "name": "k_Terrain_Generation",
+        "prompt": "Terragen, {prompt}, beautiful massive landscapes, epic scenery, Terragen",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Terrain_Generation.jpg"
+    },
+    {
+        "name": "k_Peaceful_And_Relaxing_Atmosphere",
+        "prompt": "tranquil relaxing atmosphere, {prompt}, calming style, soothing colors, peaceful, ideal, tranquil relaxing atmosphere",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast, oversaturated",
+        "image_filename": "k_Peaceful_And_Relaxing_Atmosphere.jpg"
+    },
+    {
+        "name": "k_Sticker_Design",
+        "prompt": "vector art stickers, {prompt}, professional vector design, sticker design, sticker page",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Sticker_Design.jpg"
+    },
+    {
+        "name": "k_Vivid_Rim_Light",
+        "prompt": "vibrant rim light, {prompt}, bright rim light, high contrast, bold rim light",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Vivid_Rim_Light.jpg"
+    },
+    {
+        "name": "k_Volumetric_Lighting",
+        "prompt": "volumetric lighting, {prompt}, light depth, dramatic atmospheric lighting, volumetric lighting",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Volumetric_Lighting.jpg"
+    },
+    {
+        "name": "k_Watercolor",
+        "prompt": "Watercolor style painting, {prompt}, visible paper texture, colorful washes, watercolor",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, photorealistic",
+        "image_filename": "k_Watercolor.jpg"
+    },
+    {
+        "name": "k_Whimsical_And_Playful",
+        "prompt": "whimsical, fun, {prompt}, imaginative, fantastic, colorful, stylized, happy, whimsical, fun",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, flat, boring, moody",
+        "image_filename": "k_Whimsical_And_Playful.jpg"
+    },
+    {
+        "name": "k_Focus_Enhancement",
+        "prompt": "{'prompt': none}",
+        "negative_prompt": "(worst quality, low quality, normal quality, low resolution, low detail, oversaturated, undersaturated, overexposed, underexposed, grayscale, black and white, bad photo, bad photography, bad art: 1.4), (watermark, signature, text font, username, error, logo, word, letter, number, autograph, trademark, name: 1.2), (blurry, blurry, grainy), sick, ugly, asymmetric, mutated deformed, incomplete, poor lighting, bad shadows, rough draft, cropped, out of frame, cut off, censored, jpeg artifacts, out of focus, glitch, repeated, (airbrushed, cartoon, anime, semi-realism, cgi, rendered, blender, digital art, comic, amateur: 1.3), (3d, 3d game, 3d game scene, 3d character: 1.1), (bad hands, bad anatomy, bad body, bad face, bad teeth, bad arms, bad legs, deformed: 1.3)",
+        "image_filename": "k_Focus_Enhancement.jpg"
+    },
+    {
+        "name": "k_Focus_Sharpening",
+        "prompt": "movie still {prompt}. emotion, harmony, vignette, 4k epic detail, kodak shot, 35mm photo, sharp focus, high budget, widescreen, moody, epic, gorgeous, film grain, grainy",
+        "negative_prompt": "anime, cartoon, graphics, (blur, blur, bokeh), text, drawing, crayon, graphite, abstract, glitch, distorted, mutation, ugly, disfigured",
+        "image_filename": "k_Focus_Sharpening.jpg"
+    },
+    {
+        "name": "k_Focus_Masterpiece",
+        "prompt": "(masterpiece), (best quality), (super detailed), {prompt}, illustration, messy hair, detailed eyes, perfect composition, wet skin, intricate details, earrings, by wlop",
+        "negative_prompt": "long, low resolution, bad anatomy, bad hands, missing fingers, pubic hair, extra fingers, few fingers, cropped, worst quality, low quality",
+        "image_filename": "k_Focus_Masterpiece.jpg"
+    },
+    {
+        "name": "k_Focus_Photography",
+        "prompt": "Photo {prompt}, 50mm. Cinematic 4k epic detail 4k epic detail photo, shot on Kodak, detail film hbo dark moody, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, very detailed, found footage",
+        "negative_prompt": "brad pitt, bokeh, depth of field, blur, cropping, normal face, saturation, contrast, iris distortion, pupil distortion, semi-realism, cgi, 3d, rendering, sketch, cartoon, drawing, anime, text, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, repetitive, sick, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, roughly proportioned, deformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck",
+        "image_filename": "k_Focus_Photography.jpg"
+    },
+    {
+        "name": "k_Focus_Film",
+        "prompt": "{'prompt': none}",
+        "negative_prompt": "deformed, bad anatomy, disfigured, badly drawn face, mutation, extra limb, ugly, badly drawn hands, missing limbs, floating limbs, disconnected limbs, disconnected head, deformed hands, long neck, mutant hands and fingers, bad hands, missing fingers, cropped, worst quality, low quality, mutation, badly drawn, giant calves, bad hands, fused hands, missing hands, missing arms, missing thighs, missing calves, missing legs, missing fingers, fused fingers, abnormal eye proportions, abnormal hands, abnormal legs, abnormal feet, abnormal fingers, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, distorted, ugly, anime, cartoon, graphic, text, drawing, crayon, graphite, abstract, glitch",
+        "image_filename": "k_Focus_Film.jpg"
+    },
+    {
+        "name": "k_Focus_Movies",
+        "prompt": "movie still {prompt}. emotional, harmonious, vignette, highly detailed, high budget, bokeh, widescreen, moody, epic, gorgeous, film grain, grainy",
+        "negative_prompt": "anime cartoon graphic text drawing crayon graphite abstract glitch deformation mutation ugly disfigured",
+        "image_filename": "k_Focus_Movies.jpg"
+    },
+    {
+        "name": "k_Mre_Movie_News",
+        "prompt": "Epic movie shot in motion {prompt}. Main subject of a high-budget action movie. Original photo, motion blur. Best quality, high resolution",
+        "negative_prompt": "static, still, motionless, slow. drawing, painting, illustration, rendering. low budget. low quality, low resolution",
+        "image_filename": "k_Mre_Movie_News.jpg"
+    },
+    {
+        "name": "k_Mre_Spontaneous_Pictures",
+        "prompt": "{prompt} Spontaneous photos, taken by talented amateurs. Best quality, high resolution. Magical moments, natural look. Simple but good looking",
+        "negative_prompt": "Overthinking. Low quality, low resolution",
+        "image_filename": "k_Mre_Spontaneous_Pictures.jpg"
+    },
+    {
+        "name": "k_Mre_Art_Vision",
+        "prompt": "{prompt} Powerful artistic vision. Breathtaking masterpieces by great artists. Best quality, high resolution",
+        "negative_prompt": "Irrelevant, flawed, made by a bad artist. Low quality, low resolution",
+        "image_filename": "k_Mre_Art_Vision.jpg"
+    },
+    {
+        "name": "k_Mre_Dark_Dream",
+        "prompt": "Dark and disturbing dream show {prompt}. Best quality, high resolution. Created by a talented but frustrated mad artist. Cold beauty",
+        "negative_prompt": "Innocent, cheerful. Comfortable, casual, boring, cliché. Low quality, low resolution",
+        "image_filename": "k_Mre_Dark_Dream.jpg"
+    },
+    {
+        "name": "k_Mre_Melancholy_Art",
+        "prompt": "Stunning dark art composed mainly of shadows and lights, forming {prompt}. A clever use of lights, shadows and chiaroscuro. Created by a dark-hearted artist, inspired by darkness. Best quality, high resolution",
+        "negative_prompt": "Low quality, low resolution",
+        "image_filename": "k_Mre_Melancholy_Art.jpg"
+    },
+    {
+        "name": "k_Mre_Nightmare",
+        "prompt": "Picture from a nightmare about a terrible {prompt}, real horror. Creepy sight. Crazy world that shouldn't exist. Best quality, high resolution",
+        "negative_prompt": "A dream come true, a pleasant experience. Low quality, low resolution",
+        "image_filename": "k_Mre_Nightmare.jpg"
+    },
+    {
+        "name": "k_Mre_Underground",
+        "prompt": "Amazing {prompt} visuals by an outstanding underground artist. Best quality, high resolution. Raw and brutal art, nonchalant yet impressive style. Inspired by darkness and chaos",
+        "negative_prompt": "Photography, mainstream, civilized. Low quality, low resolution",
+        "image_filename": "k_Mre_Underground.jpg"
+    },
+    {
+        "name": "k_Mre_Hyperrealistic_Painting",
+        "prompt": "Surrealist paintings represent a bizarre vision of {prompt}. Harmonious madness, synergy with chance. Unique art style, mind-bending art, magical surrealism. Best quality, high resolution",
+        "negative_prompt": "Photography, illustration, painting. Realistic, possible. Logical, rational. Low quality, low resolution",
+        "image_filename": "k_Mre_Hyperrealistic_Painting.jpg"
+    },
+    {
+        "name": "k_Mre_Dynamic_Illustration",
+        "prompt": "Crazy dynamic illustrations by {prompt}. Best quality, high resolution. Crazy art style, random strokes, emotional and fun",
+        "negative_prompt": "Photography, realism. Static, still, slow, boring. Low quality, low resolution",
+        "image_filename": "k_Mre_Dynamic_Illustration.jpg"
+    },
+    {
+        "name": "k_Mre_Undead_Art",
+        "prompt": "Long forgotten artwork by undead artists depicting {prompt}, a tribute to death and decay. Damn tragic art. A tragic and decaying world. Best quality, high resolution",
+        "negative_prompt": "Alive, fun, alive. Low quality, low resolution",
+        "image_filename": "k_Mre_Undead_Art.jpg"
+    },
+    {
+        "name": "k_Mre_Element_Art",
+        "prompt": "Art depicting crazy elemental energy transformed into {prompt}, the embodiment of the elements. Magical surrealism, witchcraft. Best quality, high resolution",
+        "negative_prompt": "Photography, realistic, real. Low quality, low resolution",
+        "image_filename": "k_Mre_Element_Art.jpg"
+    },
+    {
+        "name": "k_Mre_Space_Art",
+        "prompt": "Interstellar Art Contest winner, depicting the symbol of the interstellar singularity {prompt}. Best quality, high resolution. An unprecedented art style in the entire galaxy",
+        "negative_prompt": "Human creation, low quality, low resolution",
+        "image_filename": "k_Mre_Space_Art.jpg"
+    },
+    {
+        "name": "k_Mre_Ancient_Illustrations",
+        "prompt": "{prompt}'s sublime ancient illustrations, predating human civilization. Crude and simple, but also surprisingly beautiful artwork, created by a gifted primitive artist. Best quality, high resolution",
+        "negative_prompt": "Low quality, low resolution",
+        "image_filename": "k_Mre_Ancient_Illustrations.jpg"
+    },
+    {
+        "name": "k_Mre_Brave_Art",
+        "prompt": "A brave, shocking, brutally honest display of art {prompt}. Inspired by courage and boundless creativity. Finding truth in chaos. Best quality, high resolution",
+        "negative_prompt": "Low quality, low resolution",
+        "image_filename": "k_Mre_Brave_Art.jpg"
+    },
+    {
+        "name": "k_Mre_Hero_Fantasy",
+        "prompt": "Fantasy painting of a hero in a dangerous fantasy world by {prompt}. Airbrush painted on oil painting on canvas. Best quality, high resolution",
+        "negative_prompt": "Low quality, low resolution",
+        "image_filename": "k_Mre_Hero_Fantasy.jpg"
+    },
+    {
+        "name": "k_Mre_Dark_Cyberpunk",
+        "prompt": "Dark cyberpunk illustration depicting a brutal {prompt} in a world without hope, ruled by ruthless criminal cartels. Best quality, high resolution",
+        "negative_prompt": "Low quality, low resolution",
+        "image_filename": "k_Mre_Dark_Cyberpunk.jpg"
+    },
+    {
+        "name": "k_Mre_Lyrical_Geometry",
+        "prompt": "Geometric and lyrical abstract paintings present {prompt}. Oil on metal. Best quality, high resolution",
+        "negative_prompt": "Photographic, photorealistic, painterly, rendered. Low quality, low resolution",
+        "image_filename": "k_Mre_Lyrical_Geometry.jpg"
+    },
+    {
+        "name": "k_Mre_Ink_Painting_Symbol",
+        "prompt": "The long strokes of deep black ink painting turned into a symbolic painting of {prompt}. A masterful original art. Best quality, high resolution",
+        "negative_prompt": "Photography, rendering. Low quality, low resolution",
+        "image_filename": "k_Mre_Ink_Painting_Symbol.jpg"
+    },
+    {
+        "name": "k_Mre_Ink_Painting_Fine",
+        "prompt": "Highly detailed black ink painting {prompt}. Deeply researched to perfection, created by a master. Best quality, high resolution",
+        "negative_prompt": "Low quality, low resolution",
+        "image_filename": "k_Mre_Ink_Painting_Fine.jpg"
+    },
+    {
+        "name": "k_Mre_Comics",
+        "prompt": "Comic work presents {prompt}. Created by Japanese cartoonist. Rich in emotions. Best quality, high resolution",
+        "negative_prompt": "Low quality, low resolution",
+        "image_filename": "k_Mre_Comics.jpg"
+    },
+    {
+        "name": "k_Mre_Animation",
+        "prompt": "Anime artwork depicting {prompt}. Created by Japanese anime studio. Rich in emotions. Best quality, high resolution",
+        "negative_prompt": "Low quality, low resolution",
+        "image_filename": "k_Mre_Animation.jpg"
+    },
+    {
+        "name": "k_Mre_Comic_Books",
+        "prompt": "Beautiful illustrations from the adult comic book {prompt}. Beautiful artwork. Best quality, high resolution",
+        "negative_prompt": "Distorted, ugly, low quality, low resolution",
+        "image_filename": "k_Mre_Comic_Books.jpg"
+    },
+    {
+        "name": "k_Sai_D_Model",
+        "prompt": "Professional 3D model {prompt}. Octane rendering, highly detailed, large volumes, dramatic lighting",
+        "negative_prompt": "ugly, distorted, noisy, low-poly, blurry, painterly",
+        "image_filename": "k_Sai_D_Model.jpg"
+    },
+    {
+        "name": "k_Sai_Analog_Film",
+        "prompt": "Analog film photos {prompt}. Faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, tinted, highly detailed, found footage",
+        "negative_prompt": "painting drawing illustration glitch deformed variation squint ugly disfigured",
+        "image_filename": "k_Sai_Analog_Film.jpg"
+    },
+    {
+        "name": "k_Sai_Animation",
+        "prompt": "Anime Artwork {prompt}. Anime style, key visual, vibrant, studio anime, very detailed",
+        "negative_prompt": "photo distorted black and white realism disfigured low contrast",
+        "image_filename": "k_Sai_Animation.jpg"
+    },
+    {
+        "name": "k_Sai_Movies",
+        "prompt": "movie stills {prompt}. shallow depth of field, vignette, highly detailed, high budget, bokeh, widescreen, moody, epic, gorgeous, film grain, grainy",
+        "negative_prompt": "anime cartoon graphic text drawing crayon graphite abstract glitch deformation mutation ugly disfigured",
+        "image_filename": "k_Sai_Movies.jpg"
+    },
+    {
+        "name": "k_Sai_Comic_Books",
+        "prompt": "comics {prompt}. illustrations, comic art, graphic novel art, vivid, detailed",
+        "negative_prompt": "photo, distorted, glitch, noisy, realistic, stock photo",
+        "image_filename": "k_Sai_Comic_Books.jpg"
+    },
+    {
+        "name": "k_Sai_Handmade_Clay",
+        "prompt": "Plasticine style {prompt}. Sculpture, clay art, centerpiece, clay animation",
+        "negative_prompt": "Sloppy, Chaotic, Grainy, Detailed, Richly Textured, Photographic",
+        "image_filename": "k_Sai_Handmade_Clay.jpg"
+    },
+    {
+        "name": "k_Sai_Digital_Art",
+        "prompt": "concept art {prompt}. digital artwork, illustration, drawing, matte painting, highly detailed",
+        "negative_prompt": "photo, photorealistic, realism, ugly",
+        "image_filename": "k_Sai_Digital_Art.jpg"
+    },
+    {
+        "name": "k_Sai_Enhancement",
+        "prompt": "Amazingly {prompt}. Award winning, professional, very detailed",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, distorted, grainy",
+        "image_filename": "k_Sai_Enhancement.jpg"
+    },
+    {
+        "name": "k_Sai_Fantasy_Art",
+        "prompt": "Ethereal fantasy concept art by {prompt}. magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy",
+        "negative_prompt": "photography, photorealism, realism, 35mm film, DSLR, cropping, framing, text, distorted, glitches, noise, noisy, off-center, distorted, squinting, eyes closed, poor body structure, ugly, disfigured, sloppy, repetitive, variation, black and white",
+        "image_filename": "k_Sai_Fantasy_Art.jpg"
+    },
+    {
+        "name": "k_Sai_Isometric",
+        "prompt": "Isometric style {prompt}. Vibrant, beautiful, clear, detailed, extremely detailed, intricate",
+        "negative_prompt": "deformed, mutated, ugly, disfigured, blurry, noise, noisy, realistic, photography",
+        "image_filename": "k_Sai_Isometric.jpg"
+    },
+    {
+        "name": "k_Sai_Line_Art",
+        "prompt": "Line art drawing {prompt}. Professional, stylish, modern, simple, graphic, line art, vector graphics",
+        "negative_prompt": "anime, photorealistic, 35mm film, anamorphic, glitchy, blurry, noisy, off-center, deformed, squinting, closed eyes, anatomically incorrect, ugly, disfigured, mutated, realism, lifelike, impressionism, expressionism, oil, acrylic",
+        "image_filename": "k_Sai_Line_Art.jpg"
+    },
+    {
+        "name": "k_Sai_Low_Polygon",
+        "prompt": "Low polygon style {prompt}. Low polygon game art, polygonal mesh, jagged, blocky, wireframe edges, centered composition",
+        "negative_prompt": "noisy, messy, chaotic, grainy, detailed, textured, photographic",
+        "image_filename": "k_Sai_Low_Polygon.jpg"
+    },
+    {
+        "name": "k_Sai_Neon_Punk",
+        "prompt": "neon punk style {prompt}. cyberpunk, vaporwave, neon, atmospheric, vibrant, extremely beautiful, crisp, detailed, stylish, ultra modern, magenta highlights, dark purple shadows, high contrast, cinematic, ultra detailed, complex, professional",
+        "negative_prompt": "painting drawing illustration glitch deformed variation squint ugly disfigured",
+        "image_filename": "k_Sai_Neon_Punk.jpg"
+    },
+    {
+        "name": "k_Sai_Origami",
+        "prompt": "Origami style {prompt}. Paper art, pleating, folding, origami art, folds, cut and fold, centering",
+        "negative_prompt": "noisy, messy, chaotic, grainy, detailed, textured, photographic",
+        "image_filename": "k_Sai_Origami.jpg"
+    },
+    {
+        "name": "k_Sai_Photography",
+        "prompt": "Cinema Photo {prompt}. 35mm photo, film, bokeh, professional, 4k, very detailed",
+        "negative_prompt": "drawing painting crayon sketch graphite impressionism noisy blurry soft distorted ugly",
+        "image_filename": "k_Sai_Photography.jpg"
+    },
+    {
+        "name": "k_Sai_Pixel_Art",
+        "prompt": "pixel art {prompt} . low resolution, blocky, pixel art style, 8-bit graphics",
+        "negative_prompt": "Sloppy, messy, blurry, noisy, detailed, textured, photorealistic",
+        "image_filename": "k_Sai_Pixel_Art.jpg"
+    },
+    {
+        "name": "k_Sai_Texture",
+        "prompt": "Texture {prompt} Top-down close-up",
+        "negative_prompt": "Ugly, distorted, noisy, blurry",
+        "image_filename": "k_Sai_Texture.jpg"
+    },
+    {
+        "name": "k_Advertise",
+        "prompt": "Advertising poster style {prompt}. Professional, modern, product-focused, commercial, eye-catching, highly detailed",
+        "negative_prompt": "Noisy, fuzzy, amateurish, sloppy, unappealing",
+        "image_filename": "k_Advertise.jpg"
+    },
+    {
+        "name": "k_Car_Advertisement",
+        "prompt": "Car advertising style {prompt}. Stylish, dynamic, professional, commercial, car-centric, high resolution, highly detailed",
+        "negative_prompt": "Noisy, blurry, uninviting, sloppy, unprofessional",
+        "image_filename": "k_Car_Advertisement.jpg"
+    },
+    {
+        "name": "k_Corporate_Advertising",
+        "prompt": "Corporate branding style {prompt}. Professional, clean, modern, stylish, minimalist, business-oriented, highly detailed",
+        "negative_prompt": "Noisy, blurry, dirty, unkempt, messy, disorderly",
+        "image_filename": "k_Corporate_Advertising.jpg"
+    },
+    {
+        "name": "k_Fashion_Editor",
+        "prompt": "Fashion editorial style {prompt}. High fashion, trendy, stylish, editorial, magazine style, professional, highly detailed",
+        "negative_prompt": "Outdated, blurry, noisy, ugly, sloppy",
+        "image_filename": "k_Fashion_Editor.jpg"
+    },
+    {
+        "name": "k_Food_Photography",
+        "prompt": "Food photography style {prompt}. delicious, professional, culinary, high resolution, commercial, highly detailed",
+        "negative_prompt": "Off-putting, sloppy, unprofessional, loud, vague",
+        "image_filename": "k_Food_Photography.jpg"
+    },
+    {
+        "name": "k_Food_Photography",
+        "prompt": "{prompt}'s food photography. Soft natural light, macro details, vibrant colors, fresh ingredients, glittering textures, bokeh background, stylized plating, wooden tabletop, decoration, tempting, editorial quality",
+        "negative_prompt": "cartoon, anime, sketch, grayscale, dull, overexposed, messy, messy dishes, distorted",
+        "image_filename": "k_Food_Photography.jpg"
+    },
+    {
+        "name": "k_Luxury_Advertising",
+        "prompt": "Luxury style {prompt}. Elegant, refined, high-end, luxurious, professional, highly meticulous",
+        "negative_prompt": "Cheap, noisy, blurry, unappealing, amateurish",
+        "image_filename": "k_Luxury_Advertising.jpg"
+    },
+    {
+        "name": "k_Property_Advertisment",
+        "prompt": "Real estate photography style {prompt}. Professional, attractive, well-lit, high-resolution, property-focused, commercial, highly detailed",
+        "negative_prompt": "Dark, blurry, uninviting, noisy, unprofessional",
+        "image_filename": "k_Property_Advertisment.jpg"
+    },
+    {
+        "name": "k_Retail_Advertising",
+        "prompt": "Retail packaging style {prompt}. Vibrant, inviting, commercial, product-centric, eye-catching, professional, highly detailed",
+        "negative_prompt": "Noisy, fuzzy, amateurish, sloppy, unappealing",
+        "image_filename": "k_Retail_Advertising.jpg"
+    },
+    {
+        "name": "k_Abstract_Art_Style",
+        "prompt": "Abstract style {prompt}. Non-figurative, colors and shapes, emotional expression, imaginative, highly detailed",
+        "negative_prompt": "Realistic, photographic, figurative, concrete",
+        "image_filename": "k_Abstract_Art_Style.jpg"
+    },
+    {
+        "name": "k_Abstract_Expressionism",
+        "prompt": "Abstract Expressionist painting {prompt}. Vibrant brushwork, bold colors, abstract forms, expressive, emotional",
+        "negative_prompt": "Realistic, Photorealistic, Low contrast, Plain, Simple, Monochrome",
+        "image_filename": "k_Abstract_Expressionism.jpg"
+    },
+    {
+        "name": "k_Art_Deco",
+        "prompt": "Art Deco {prompt}. Geometric shapes, bold colors, luxurious, elegant, decorative, symmetrical, ornate, detailed",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realism, photorealism, modernism, minimalism",
+        "image_filename": "k_Art_Deco.jpg"
+    },
+    {
+        "name": "k_Art_Nouveau",
+        "prompt": "Art Nouveau. {prompt}, Elegance, decorativeness, curvilinear forms, nature-inspired, ornateness, detail",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realism, photorealism, modernism, minimalism",
+        "image_filename": "k_Art_Nouveau.jpg"
+    },
+    {
+        "name": "k_Constructivism",
+        "prompt": "Constructivist style {prompt}. Geometric shapes, bold colors, dynamic composition, propaganda art style",
+        "negative_prompt": "Realism, Photorealism, Low contrast, Plain, Simple, Abstract expressionism",
+        "image_filename": "k_Constructivism.jpg"
+    },
+    {
+        "name": "k_Cubism",
+        "prompt": "Cubist artwork {prompt}. Geometric, abstract, innovative, revolutionary",
+        "negative_prompt": "anime, photorealistic, 35mm film, distorted, glitchy, low contrast, noisy",
+        "image_filename": "k_Cubism.jpg"
+    },
+    {
+        "name": "k_Expressionism",
+        "prompt": "Expressionism {prompt}. Original, emotional, dynamic, distorted mood effects, vibrant, use of unusual colors, detailed",
+        "negative_prompt": "realism, symmetry, quiet, calm, photo",
+        "image_filename": "k_Expressionism.jpg"
+    },
+    {
+        "name": "k_Graffiti",
+        "prompt": "Graffiti style {prompt}. street art, vibrant, urban, detailed, tag, mural",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realism, photorealism",
+        "image_filename": "k_Graffiti.jpg"
+    },
+    {
+        "name": "k_Surrealism",
+        "prompt": "Hyperrealistic art. {prompt}, Extremely high resolution detail, photography, extreme realism, fine texture, lifelike",
+        "negative_prompt": "Simplified, abstract, unrealistic, impressionistic, low-resolution",
+        "image_filename": "k_Surrealism.jpg"
+    },
+    {
+        "name": "k_Impressionism",
+        "prompt": "Impressionist painting {prompt}. Loose brushstrokes, bright colors, play of light and shadow, capturing feeling over form",
+        "negative_prompt": "anime, photorealistic, 35mm film, distorted, glitchy, low contrast, noisy",
+        "image_filename": "k_Impressionism.jpg"
+    },
+    {
+        "name": "k_Pointillism",
+        "prompt": "Pointillism style {prompt}. Made up entirely of small, unique colored dots, with vivid colors and rich details",
+        "negative_prompt": "Line drawing, smooth shading, large color range, simplification",
+        "image_filename": "k_Pointillism.jpg"
+    },
+    {
+        "name": "k_Pop_Art",
+        "prompt": "Pop art style. {prompt}, Bright colors, sharp outlines, pop culture themes, satire or kitsch",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realism, photorealism, minimalism",
+        "image_filename": "k_Pop_Art.jpg"
+    },
+    {
+        "name": "k_Psychedelic_Art",
+        "prompt": "Psychedelic style {prompt}. Bright colors, swirling patterns, abstract forms, surreal, psychedelic",
+        "negative_prompt": "monochrome, black and white, low contrast, realistic, photorealistic, plain, simple",
+        "image_filename": "k_Psychedelic_Art.jpg"
+    },
+    {
+        "name": "k_Renaissance",
+        "prompt": "Renaissance style. {prompt}, Realism, perspective, light and shadow, religious or mythological themes, high degree of detail",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, modernism, minimalism, abstract",
+        "image_filename": "k_Renaissance.jpg"
+    },
+    {
+        "name": "k_Steampunk",
+        "prompt": "Steampunk style {prompt}. Antique, mechanical, brass and copper tones, gears, intricate, detailed",
+        "negative_prompt": "Distorted, Glitch, Noisy, Low Contrast, Anime, Realistic",
+        "image_filename": "k_Steampunk.jpg"
+    },
+    {
+        "name": "k_Surrealism",
+        "prompt": "Surreal art. {prompt}, Dreamlike, mysterious, provocative, symbolic, complex, detailed",
+        "negative_prompt": "anime, photorealistic, realistic, distorted, glitched, noisy, low contrast",
+        "image_filename": "k_Surrealism.jpg"
+    },
+    {
+        "name": "k_Typography_Art",
+        "prompt": "Typographic art {prompt}. Stylized, complex, detailed, artistic, text-based",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realism, photorealism",
+        "image_filename": "k_Typography_Art.jpg"
+    },
+    {
+        "name": "k_Watercolor_Art",
+        "prompt": "Watercolor {prompt} . Vibrant, beautiful, painterly, detailed, textured, artistic",
+        "negative_prompt": "anime, photorealistic, 35mm film, distorted, glitchy, low contrast, noisy",
+        "image_filename": "k_Watercolor_Art.jpg"
+    },
+    {
+        "name": "k_Future_Biomechanics",
+        "prompt": "Biomechanical style {prompt}. A mix of organic and mechanical elements, futuristic, cybernetic, detailed, complex",
+        "negative_prompt": "Natural, rustic, original, organic, simple",
+        "image_filename": "k_Future_Biomechanics.jpg"
+    },
+    {
+        "name": "k_Future_Biomechanics_Cyberpunk",
+        "prompt": "Biomechanical cyberpunk {prompt}. Cybernetics, human-machine fusion, dystopia, combination of organic and artificial, dark, complex, highly detailed",
+        "negative_prompt": "nature, colorful, distorted, sketch, low contrast, watercolor",
+        "image_filename": "k_Future_Biomechanics_Cyberpunk.jpg"
+    },
+    {
+        "name": "k_Future_Cyber",
+        "prompt": "Cybernetic style {prompt}. Futurism, technology, cybernetic enhancement, robotics, artificial intelligence theme",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realism, photorealism, historical, medieval",
+        "image_filename": "k_Future_Cyber.jpg"
+    },
+    {
+        "name": "k_Future_Robots",
+        "prompt": "Cybernetic robot {prompt}. android, artificial intelligence, machine, metal, wires, technology, futuristic, highly detailed",
+        "negative_prompt": "organic, nature, human, sketch, watercolor, low contrast",
+        "image_filename": "k_Future_Robots.jpg"
+    },
+    {
+        "name": "k_Future_Cyberpunk_Cityscape",
+        "prompt": "Cyberpunk cityscape {prompt}. Neon lights, dark alleys, skyscrapers, futuristic, bright colors, high contrast, highly detailed",
+        "negative_prompt": "natural, rustic, anamorphosis, low contrast, black and white, sketch, watercolor",
+        "image_filename": "k_Future_Cyberpunk_Cityscape.jpg"
+    },
+    {
+        "name": "k_Futurism",
+        "prompt": "Futuristic style. {prompt}, Stylish, modern, ultra-modern, high-tech, detailed",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realism, photorealism, retro, antique",
+        "image_filename": "k_Futurism.jpg"
+    },
+    {
+        "name": "k_Future_Retro_Cyberpunk",
+        "prompt": "Retro cyberpunk {prompt}. 80s style, synthwave, neon, vibrant, detailed, retro-futuristic",
+        "negative_prompt": "modern, desaturated, black and white, realism, low contrast",
+        "image_filename": "k_Future_Retro_Cyberpunk.jpg"
+    },
+    {
+        "name": "k_Future_Retro",
+        "prompt": "Retro-futurism {prompt} . Retro sci-fi, 50s and 60s style, atomic age, vibrant and detailed",
+        "negative_prompt": "modern, practical, rural, primitive",
+        "image_filename": "k_Future_Retro.jpg"
+    },
+    {
+        "name": "k_Sci_Fi_Futurism",
+        "prompt": "Sci-fi style {prompt}. Futurism, technology, alien worlds, space themes, advanced civilizations",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realism, photorealism, historical, medieval",
+        "image_filename": "k_Sci_Fi_Futurism.jpg"
+    },
+    {
+        "name": "k_Future_Wave",
+        "prompt": "Vaporwave style {prompt} . Retro aesthetic, cyberpunk, vibrant, neon colors, vintage 80s and 90s style, highly detailed",
+        "negative_prompt": "monochrome, pastel colors, realism, rustic, minimalism, dark colors",
+        "image_filename": "k_Future_Wave.jpg"
+    },
+    {
+        "name": "k_Game_Bubble_Bobble",
+        "prompt": "Bubble Bobble style {prompt}. 8-bit, cute, pixelated, fantasy, vibrant, reminiscent of the Bubble Bobble game",
+        "negative_prompt": "realism, modern, photorealistic, violent, horror",
+        "image_filename": "k_Game_Bubble_Bobble.jpg"
+    },
+    {
+        "name": "k_Cyberpunk_Games",
+        "prompt": "Cyberpunk game style {prompt}. Neon, dystopian, futuristic, digital, vibrant, detailed, high contrast, reminiscent of a cyberpunk type video game",
+        "negative_prompt": "History, nature, simplicity, low detail",
+        "image_filename": "k_Cyberpunk_Games.jpg"
+    },
+    {
+        "name": "k_Fighting_Games",
+        "prompt": "Fighting game style {prompt}. Dynamic, vibrant, action-packed, detailed character designs reminiscent of fighting video games",
+        "negative_prompt": "Peace, calm, simplicity, realism",
+        "image_filename": "k_Fighting_Games.jpg"
+    },
+    {
+        "name": "k_Grand_Theft_Auto_Games",
+        "prompt": "GTA-style artwork {prompt}. Sarcasm, exaggeration, pop art style, bright colors, iconic characters, dynamic",
+        "negative_prompt": "Realism, black and white, low contrast, impressionism, cubism, noisy, blurry, distorted",
+        "image_filename": "k_Grand_Theft_Auto_Games.jpg"
+    },
+    {
+        "name": "k_Mario_Games",
+        "prompt": "Super Mario style {prompt}. Vibrant, cute, cartoony, fantastical, fun, reminiscent of the Super Mario series",
+        "negative_prompt": "Realism, modernism, horror, dystopia, violence",
+        "image_filename": "k_Mario_Games.jpg"
+    },
+    {
+        "name": "k_Minecraft_Game",
+        "prompt": "Minecraft style {prompt} . Blocky, pixelated, bright colors, recognizable characters and objects, game assets",
+        "negative_prompt": "smooth, realistic, detailed, lifelike, noisy, blurry, distorted",
+        "image_filename": "k_Minecraft_Game.jpg"
+    },
+    {
+        "name": "k_Pok_Mon_Games",
+        "prompt": "Pokémon style {prompt}. Vibrant, cute, anime, fantasy, reminiscent of the Pokémon series",
+        "negative_prompt": "Realism, modernism, horror, dystopia, violence",
+        "image_filename": "k_Pok_Mon_Games.jpg"
+    },
+    {
+        "name": "k_Retro_Arcade",
+        "prompt": "Retro Arcade Style {prompt} . 8-bit, pixelated, vibrant, classic video games, old school, reminiscent of arcade games from the 80s and 90s",
+        "negative_prompt": "Modern, ultra-high resolution, photorealistic, 3D",
+        "image_filename": "k_Retro_Arcade.jpg"
+    },
+    {
+        "name": "k_Retro_Gaming",
+        "prompt": "Retro gaming art {prompt}. 16-bit, brightly colored, pixelated, nostalgic, charming, fun",
+        "negative_prompt": "realistic, photorealistic, 35mm film, distorted, glitched, low contrast, noisy",
+        "image_filename": "k_Retro_Gaming.jpg"
+    },
+    {
+        "name": "k_Role_Playing_Fantasy_Games",
+        "prompt": "RPG-style fantasy{prompt}. Richly detailed, vivid, and immersive, it's reminiscent of a high fantasy RPG",
+        "negative_prompt": "Sci-fi, modern, urban, future, low detail",
+        "image_filename": "k_Role_Playing_Fantasy_Games.jpg"
+    },
+    {
+        "name": "k_Strategy_Game",
+        "prompt": "Strategy game style {prompt}. Top-down view, detailed maps, units, reminiscent of real-time strategy video games",
+        "negative_prompt": "First-person perspective, modern, realistic",
+        "image_filename": "k_Strategy_Game.jpg"
+    },
+    {
+        "name": "k_Street_Fighter_Game",
+        "prompt": "Street Fighter style {prompt}. A vibrant, dynamic, arcade, 2D fighting game with rich details reminiscent of the Street Fighter series",
+        "negative_prompt": "3D, realistic, modern, photorealistic, turn-based strategy",
+        "image_filename": "k_Street_Fighter_Game.jpg"
+    },
+    {
+        "name": "k_The_Legend_Of_Zelda_Game",
+        "prompt": "The Legend of Zelda style {prompt}. Vibrant, fantasy, detailed, epic, heroic, reminiscent of the Legend of Zelda series",
+        "negative_prompt": "Sci-fi, modern, reality, horror",
+        "image_filename": "k_The_Legend_Of_Zelda_Game.jpg"
+    },
+    {
+        "name": "k_Architecture",
+        "prompt": "Architectural style {prompt}. Clean lines, geometric shapes, minimalist, modern, architectural drawing, highly detailed",
+        "negative_prompt": "curves, ornate, baroque, abstract, grunge",
+        "image_filename": "k_Architecture.jpg"
+    },
+    {
+        "name": "k_Disco",
+        "prompt": "Disco theme {prompt} . Vibrant, funky, retro 70s style, shiny disco ball, neon lights, dance floor, highly detailed",
+        "negative_prompt": "minimalism, rustic, monochrome, modern, simple",
+        "image_filename": "k_Disco.jpg"
+    },
+    {
+        "name": "k_Dreams",
+        "prompt": "Dream. {prompt}, Surreal, ethereal, dreamy, mysterious, fantastic, very detailed",
+        "negative_prompt": "Realistic, concrete, ordinary, mundane",
+        "image_filename": "k_Dreams.jpg"
+    },
+    {
+        "name": "k_Dystopia",
+        "prompt": "Dystopian. {prompt}, Bleak, apocalyptic, gloomy, dramatic, detailed",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, cheerful, optimistic, vibrant, colorful",
+        "image_filename": "k_Dystopia.jpg"
+    },
+    {
+        "name": "k_Fairy_Tales",
+        "prompt": "Fairy tales. {prompt}, Magical, fantastical, enchanting, storybook style, highly detailed",
+        "negative_prompt": "Realistic, modern, ordinary, secular",
+        "image_filename": "k_Fairy_Tales.jpg"
+    },
+    {
+        "name": "k_Gothic",
+        "prompt": "Gothic style. {prompt}, Dark, mysterious, haunting, dramatic, ornate, detailed",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realism, photorealism, cheerful, optimistic",
+        "image_filename": "k_Gothic.jpg"
+    },
+    {
+        "name": "k_Grunge",
+        "prompt": "Grunge style {prompt}. Texture, worn, vintage, edgy, punk rock style, dirty, noisy",
+        "negative_prompt": "Smooth, clean, simple, stylish, modern, realistic",
+        "image_filename": "k_Grunge.jpg"
+    },
+    {
+        "name": "k_Fear",
+        "prompt": "Horror theme {prompt}. Weird, disturbing, dark, ghostly, suspenseful, cruel, rich in details",
+        "negative_prompt": "Cheerful, Bright, Energetic, Relaxed, Cute",
+        "image_filename": "k_Fear.jpg"
+    },
+    {
+        "name": "k_Kawaii",
+        "prompt": "Kawaii style {prompt} . Cute, charming, colorful, cheerful, anime-influenced, detailed",
+        "negative_prompt": "dark, horror, reality, monochrome, abstract",
+        "image_filename": "k_Kawaii.jpg"
+    },
+    {
+        "name": "k_Cthulhu_Mythos",
+        "prompt": "Lovecraftian horror {prompt}. Weird, cosmic horror, unknown, mysterious, surreal, detailed",
+        "negative_prompt": "Easy, ordinary, familiar, simple, realistic",
+        "image_filename": "k_Cthulhu_Mythos.jpg"
+    },
+    {
+        "name": "k_Horrifying",
+        "prompt": "Horror style. {prompt}, Dark, gothic, eerie, spooky, haunting, detailed",
+        "negative_prompt": "Bright, cheerful, relaxed, cartoony, cute",
+        "image_filename": "k_Horrifying.jpg"
+    },
+    {
+        "name": "k_Manga",
+        "prompt": "Manga style {prompt}. Vibrant, energetic, detailed, iconic Japanese manga style",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realism, photorealism, western comic style",
+        "image_filename": "k_Manga.jpg"
+    },
+    {
+        "name": "k_Metropolis",
+        "prompt": "metropolis theme {prompt} . city, cityscape, skyscrapers, modern, futuristic, highly detailed",
+        "negative_prompt": "Countryside, nature, rustic, historical, simple",
+        "image_filename": "k_Metropolis.jpg"
+    },
+    {
+        "name": "k_Minimalism",
+        "prompt": "Minimalist style {prompt}. Simple, clean, neat, modern, elegant",
+        "negative_prompt": "ornate, complex, highly detailed, cluttered, disorderly, chaotic, noisy",
+        "image_filename": "k_Minimalism.jpg"
+    },
+    {
+        "name": "k_Monochrome",
+        "prompt": "Monochrome {tips}. Black and white, contrast, tone, texture, detail",
+        "negative_prompt": "Colorful, Vibrant, Noisy, Blurry, Distorted",
+        "image_filename": "k_Monochrome.jpg"
+    },
+    {
+        "name": "k_Navigation",
+        "prompt": "Nautical theme {prompt}. sea, ocean, ship, offshore, beach, marine life, highly detailed",
+        "negative_prompt": "Outback, desert, mountains, cities, villages",
+        "image_filename": "k_Navigation.jpg"
+    },
+    {
+        "name": "k_Space",
+        "prompt": "Space theme {prompt} . Universe, celestial bodies, stars, galaxies, nebulae, planets, science fiction, highly detailed",
+        "negative_prompt": "Secular, ordinary, down-to-earth, realistic",
+        "image_filename": "k_Space.jpg"
+    },
+    {
+        "name": "k_Multicolored_Glass",
+        "prompt": "Stained glass style {prompt}. Bright, beautiful, translucent, complex, detailed",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realism, photorealism",
+        "image_filename": "k_Multicolored_Glass.jpg"
+    },
+    {
+        "name": "k_Tech_Clothing",
+        "prompt": "techno-fashion {prompt} . futuristic, cyberpunk, urban, tactical, stylish, dark, highly detailed",
+        "negative_prompt": "vintage, rustic, colorful, low contrast, realism, sketch, watercolor",
+        "image_filename": "k_Tech_Clothing.jpg"
+    },
+    {
+        "name": "k_Tribe",
+        "prompt": "Tribal style {prompt}. Indigenous, ethnic, traditional patterns, bold, natural colors, highly detailed",
+        "negative_prompt": "Modern, futuristic, simple, soft",
+        "image_filename": "k_Tribe.jpg"
+    },
+    {
+        "name": "k_Zentangle",
+        "prompt": "zentangle {prompt}. complex, abstract, monochrome, pattern, meditation, highly detailed",
+        "negative_prompt": "Rich colors, strong representativeness, simplification, large color gamut",
+        "image_filename": "k_Zentangle.jpg"
+    },
+    {
+        "name": "k_Paper_Collage",
+        "prompt": "Collage style {prompt}. Mixed media, layering, texture, detail, art",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realism, photorealism",
+        "image_filename": "k_Paper_Collage.jpg"
+    },
+    {
+        "name": "k_Flat_Paper_Cutting",
+        "prompt": "Flat paper cut style {prompt}. Outlines, clean cuts, paper, sharp edges, simplicity, color blocks",
+        "negative_prompt": "3D, high detail, noise, graininess, blur, painting, drawing, photo, disfigurement",
+        "image_filename": "k_Flat_Paper_Cutting.jpg"
+    },
+    {
+        "name": "k_Paper_Cutting",
+        "prompt": "{prompt}'s paper-cutting expression. 3D, origami, paper-cutting, Japanese style, complex, symmetrical, precise, clear lines",
+        "negative_prompt": "painting, drawing, 2D, noisy, blurry, distorted",
+        "image_filename": "k_Paper_Cutting.jpg"
+    },
+    {
+        "name": "k_Pulp_Molding",
+        "prompt": "Paper pulp performance {prompt}. 3D, sculpture, texture, handmade, vibrant, fun",
+        "negative_prompt": "2d, flat, photo, sketch, digital art, distorted, noisy, blurry",
+        "image_filename": "k_Pulp_Molding.jpg"
+    },
+    {
+        "name": "k_Paper_Scroll_Art",
+        "prompt": "{prompt}'s paper art. Complex, delicate, curled, rolled, formed, coiled, looped, 3D, three-dimensional, decorative",
+        "negative_prompt": "photo, painting, drawing, 2D, flat, distorted, noisy, blurry",
+        "image_filename": "k_Paper_Scroll_Art.jpg"
+    },
+    {
+        "name": "k_Paper_Cut_Collage",
+        "prompt": "{prompt} Paper cut collage. Mixed media, textured paper, overlapping, asymmetric, abstract, vibrant",
+        "negative_prompt": "photo, 3D, realistic, sketch, painting, high detail, disfigurement",
+        "image_filename": "k_Paper_Cut_Collage.jpg"
+    },
+    {
+        "name": "k_Paper_Cut_Shadow_Box",
+        "prompt": "3D paper cut shadow box by {prompt}. layered, 3D, depth, outline, shadow, paper cut, handmade, high contrast",
+        "negative_prompt": "painting, drawing, photo, 2D, flat, high detail, blurry, noisy, disfigured",
+        "image_filename": "k_Paper_Cut_Shadow_Box.jpg"
+    },
+    {
+        "name": "k_Stacking_Paper_Cutouts",
+        "prompt": "{prompt}'s stacked paper cutting art. 3D, layered, three-dimensional, depth, precise cutting, stacked layers, paper cutting, high contrast",
+        "negative_prompt": "2d, flat, noisy, blurry, painting, drawing, photo, distorted",
+        "image_filename": "k_Stacking_Paper_Cutouts.jpg"
+    },
+    {
+        "name": "k_Thick_Paper_Cutting",
+        "prompt": "{prompt} Thick layered paper cutting art. Depth 3D, volume, three-dimensional, depth, thick paper, high stacking, heavy texture, tangible layers",
+        "negative_prompt": "2D, flat, thin paper, low stack, smooth texture, painting, sketch, photo, distorted",
+        "image_filename": "k_Thick_Paper_Cutting.jpg"
+    },
+    {
+        "name": "k_Alien",
+        "prompt": "Alien theme {prompt}. Extraterrestrial, cosmic, otherworldly, mysterious, sci-fi, highly detailed",
+        "negative_prompt": "mundane, ordinary, common, realistic, simple",
+        "image_filename": "k_Alien.jpg"
+    },
+    {
+        "name": "k_Film_Noir",
+        "prompt": "Film noir style {prompt}. monochrome, high contrast, dramatic shadows, 1940s style, mystery, cinematic",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realism, photorealism, vibrant, colorful",
+        "image_filename": "k_Film_Noir.jpg"
+    },
+    {
+        "name": "k_Charm",
+        "prompt": "Glamorous photos {prompt}. haute couture, luxurious, extravagant, stylish, sexy, gorgeous, elegant, stunning, professional, high contrast, detailed",
+        "negative_prompt": "ugly, distorted, noisy, blurry, distorted, grainy, sketch, low contrast, dull, plain, modest",
+        "image_filename": "k_Charm.jpg"
+    },
+    {
+        "name": "k_High_Dynamic_Range",
+        "prompt": "HDR photos by {prompt}. High dynamic range, vivid, rich in details, sharp shadows and highlights, realistic, intense, contrast-enhanced, rich in details",
+        "negative_prompt": "Flat, Low contrast, Oversaturated, Underexposed, Overexposed, Blurry, Noisy",
+        "image_filename": "k_High_Dynamic_Range.jpg"
+    },
+    {
+        "name": "k_Iphone_Photography",
+        "prompt": "iPhone photo {prompt}. Large depth of field, deep field, rich details",
+        "negative_prompt": "drawing painting crayon sketch graphite impressionism noisy blurry soft distorted ugly shallow depth of field bokeh",
+        "image_filename": "k_Iphone_Photography.jpg"
+    },
+    {
+        "name": "k_Long_Exposure",
+        "prompt": "{prompt}'s long exposure photo. Motion blur, light streaks, surreal, dreamy, ghosting effect, rich details",
+        "negative_prompt": "static, noisy, distorted, shaky, abrupt, flat, low contrast",
+        "image_filename": "k_Long_Exposure.jpg"
+    },
+    {
+        "name": "k_Neon_Black",
+        "prompt": "Neon noir {prompt}. Cyberpunk, dark, rainy streets, neon lights, high contrast, low light, vibrant, detailed",
+        "negative_prompt": "bright, sunlight, daytime, low contrast, black and white, sketch, watercolor",
+        "image_filename": "k_Neon_Black.jpg"
+    },
+    {
+        "name": "k_Silhouette",
+        "prompt": "Outline style {prompt}. High contrast, minimalist, black and white, stark, dramatic",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, color, realism, photorealism",
+        "image_filename": "k_Silhouette.jpg"
+    },
+    {
+        "name": "k_Tilt_Shift",
+        "prompt": "{prompt}'s Tilt-Shift Photo. Selective focus, miniature effect, background blur, rich details, vibrant, perspective control",
+        "negative_prompt": "Blurry, noisy, distorted, flat, low contrast, unrealistic, oversaturated, underexposed",
+        "image_filename": "k_Tilt_Shift.jpg"
+    },
+    {
+        "name": "k_Rococo",
+        "prompt": "Rococo, {prompt}, ornate, soft colors, curved lines, exquisite details, Rococo",
+        "negative_prompt": "Ugly, distorted, noisy, blurry, low contrast",
+        "image_filename": "k_Rococo.jpg"
+    },
+    {
+        "name": "k_Sai_Low_Poly",
+        "prompt": "Low polygon style {prompt}. Low polygon game art, polygonal mesh, jagged, blocky, wireframe edges, centered composition",
+        "negative_prompt": "noisy, rough, chaotic, grainy, detailed, textured, photographic",
+        "image_filename": "k_Sai_Low_Poly.jpg"
+    },
+    {
+        "name": "k_Pulp_Modeling",
+        "prompt": "{prompt}'s papier-mache representation. 3D, sculptural, textured, handmade, vibrant, fun",
+        "negative_prompt": "2d, flat, photo, sketch, digital art, distorted, noisy, blurry",
+        "image_filename": "k_Pulp_Modeling.jpg"
+    },
+    {
+        "name": "k_Abstract_Expressionism",
+        "prompt": "Abstract Expressionist painting {prompt}. Vibrant brushwork, bold colors, abstract forms, expressive, emotional",
+        "negative_prompt": "realistic, photorealistic, low contrast, plain, simple, monochrome",
+        "image_filename": "k_Abstract_Expressionism.jpg"
+    },
+    {
+        "name": "k_My_World_Game",
+        "prompt": "Minecraft style {prompt} . Blocky, pixelated, bright colors, recognizable characters and objects, game assets",
+        "negative_prompt": "Smooth, realistic, detailed, photorealistic, noisy, blurry, distorted",
+        "image_filename": "k_My_World_Game.jpg"
+    },
+    {
+        "name": "k_Dream",
+        "prompt": "Dreamscape. {prompt}, Surreal, ethereal, dreamy, mysterious, fantasy, very detailed",
+        "negative_prompt": "Realistic, concrete, ordinary, mundane",
+        "image_filename": "k_Dream.jpg"
+    },
+    {
+        "name": "k_Stained_Glass",
+        "prompt": "Stained glass style {prompt}. Colorful, beautiful, translucent, complex, detailed",
+        "negative_prompt": "ugly, distorted, noisy, blurry, low contrast, realism, photorealism",
+        "image_filename": "k_Stained_Glass.jpg"
+    }
+]
